@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import MetricCard from "../components/MetricCard";
 import { LineChartCard, BarChartCard, PieChartCard, AreaChartCard, RadarChartCard } from "../components/Charts";
-import { Users, DollarSign, ShoppingCart, Eye, Percent, Smile } from "lucide-react";
+import { Users, DollarSign, ShoppingCart, Percent, Smile } from "lucide-react";
 
 function Dashboard() {
   return (
