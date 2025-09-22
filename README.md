@@ -7,7 +7,7 @@ Este proyecto forma parte de la suite de aplicaciones de **Zentrix Innovate**.
 
 ## 🚀 Características
 
-✅ Tarjetas de métricas (usuarios, ventas, órdenes, visitas, conversión, satisfacción).  
+✅ Tarjetas de métricas (usuarios, ventas, órdenes, conversión, satisfacción).  
 ✅ Gráficos interactivos: LineChart, BarChart, PieChart, AreaChart y RadarChart.  
 ✅ Tabla dinámica para visualizar datos de manera estructurada.  
 ✅ Diseño responsivo y minimalista.  
@@ -17,7 +17,7 @@ Este proyecto forma parte de la suite de aplicaciones de **Zentrix Innovate**.
 
 ## 🖼️ Vista previa
 
-> _Capturas de pantalla próximamente..._
+<img width="1598" height="766" alt="image" src="https://github.com/user-attachments/assets/f564a38c-201b-4ac2-a199-4e7b4520351e" />
 
 ---
 
